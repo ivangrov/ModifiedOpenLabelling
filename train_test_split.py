@@ -6,7 +6,7 @@ imgList = os.listdir('images')
 
 
 #shuffling images
-#random.shuffle(imgList)
+random.shuffle(imgList)
 
 split = 0.2
 
