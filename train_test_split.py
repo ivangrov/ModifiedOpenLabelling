@@ -2,8 +2,11 @@ import os
 import random
 import shutil
 
-
 imgList = os.listdir('images')
+
+
+#shuffling images
+#random.shuffle(imgList)
 
 split = 0.2
 
